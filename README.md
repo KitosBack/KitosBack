@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @KitosBack
-- 👀 I’m interested in Coding and Game Development
-- 🌱 I’m currently learning javascript
+<!-- my introduction -->
+<h1>Welcome to my profile!</h1>
 
-<!---
-KitosBack/KitosBack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>My name is <b>Eliotas</b>, I'm currently learning <b>HTML</b> and <b>CSS</b>.</p>
+<p>I'm 16 turning 17 in May, I love skateboarding, video games, and newly.. coding!</p>
+<h2>You can find more about me on <a href="https://kitosback.neocities.org/">my own website :)</a></h2>
